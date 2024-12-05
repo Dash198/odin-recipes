@@ -1,0 +1,19 @@
+.title,.subtitle{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
+
+.subtitle{
+    font-size: 36px;
+    text-align: center;
+}
+
+.entry{
+    font-size: 36px;
+}
+
+body{
+    font-family: "Brush Script MT",sans-serif;
+}
